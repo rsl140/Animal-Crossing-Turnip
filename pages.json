@@ -1,0 +1,14 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "大头菜一周走势"
+		}
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "Animal-Crossing-Turnip",
+		"navigationBarBackgroundColor": "#8dc63f",
+		"backgroundColor": "#FFFFFF"
+	}
+}

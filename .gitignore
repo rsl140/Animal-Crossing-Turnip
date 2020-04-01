@@ -1,0 +1,21 @@
+unpackage/
+=======
+._.DS_Store
+.DS_Store
+node_modules/
+dist/
+unpackage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.tern-project
+static/version.json
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
